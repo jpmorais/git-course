@@ -8,6 +8,6 @@ const server = http.createServer((req, res) => {
 
 
 server.listen(8000, () => {
-    console.log(`Server is listening on port 9000`)
+    console.log(`Server is listening on port 7000`)
 })
 
